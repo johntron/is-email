@@ -1,21 +1,21 @@
-# is-email
+# is-host
 
-  Loosely validate an email address.
+  Loosely validate a host address (IPv4, IPV6, and name).
 
 ## Installation
   
 ```
-$ component install segmentio/is-email
+$ component install johntron/is-host
 ```
 ```
-$ npm install is-email
+$ npm install is-host
 ```
 
 ## API
 
-### isEmail(string)
+### isHost(string)
 
-  Loosely checks whether a `string` is an email address.
+  Loosely checks whether a `string` is a valid host address
 
 ## License
 

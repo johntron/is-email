@@ -1,7 +1,7 @@
 {
-  "name": "is-email",
-  "version": "0.1.1",
-  "repository": "https://github.com/segmentio/is-email.git",
+  "name": "is-host",
+  "version": "0.0.1",
+  "repository": "https://github.com/johntron/is-host.git",
   "devDependencies": {
     "mocha": "*",
     "should": "*"
